@@ -1,0 +1,22 @@
+Start new game with deck R1 R2 R3 R4 R5 R1 R2 R3 R4 R5 Y1 Y2
+Tell rank 1 for cards 1
+Start new game with deck R1 R2 R3 R4 R1 R1 R2 R3 R4 R1 Y1 Y2
+Tell rank 1 for cards 0
+Start new game with deck R1 R2 R3 R4 R1 R1 R2 R3 R4 R1 Y1 Y2
+Tell rank 1 for cards 4
+Start new game with deck R1 R2 R3 R4 R1 R1 R2 R3 R4 R1 Y1 Y2
+Tell rank 1 for cards 0 1 4
+Start new game with deck R1 R2 R3 R4 R1 R1 R2 R3 R4 R1 Y1 Y2
+Tell rank 1 for cards 0 4
+Tell rank 1 for cards 0 1 2 3 4
+Start new game with deck R1 R2 R3 R4 R5 R1 R2 R3 R4 R5 Y1 Y2
+Tell color Yellow for cards 0
+Start new game with deck R1 R2 R3 R4 R1 R1 R2 R3 R4 R1 Y1 Y2
+Tell color Red for cards 0
+Start new game with deck R1 R2 R3 R4 R1 R1 R2 R3 R4 R1 Y1 Y2
+Tell color Red for cards 0 1 2 3
+Start new game with deck R1 R2 R3 R4 R1 Y1 R2 R3 R4 R1 Y1 Y2
+Tell color Red for cards 0 1 2 3 4
+Start new game with deck R1 R2 R3 R4 R1 R1 R2 R3 R4 R1 Y1 Y2
+Tell color Red for cards 0 1 2 3 4
+Tell color Blue for cards 0
